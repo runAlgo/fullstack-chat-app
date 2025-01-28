@@ -1,5 +1,7 @@
 # ✨ Full Stack Realtime Chat App ✨
 
+[Chat Live Demo](https://fullstack-chat-app-qwoa.onrender.com)
+
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
 Highlights:
